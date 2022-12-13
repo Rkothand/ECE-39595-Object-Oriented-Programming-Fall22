@@ -1,0 +1,9 @@
+Rubric for Homework 3, Destructors
+
+2 points for destructors called
+
+2 points for terminating normally (no seg fault or other abnormal termination)
+
+3 points for deleting all DataBin objects that are part of LinkedListNode objects
+
+3 points for delete all LinkedListNode objects.

@@ -1,0 +1,12 @@
+Step 2:
+1 point Address constructor has an empty body
+1 point the Person constructor only contains the initialization of dateOfBirth
+1 point the Employee constructor body is empty.
+Objects must be fully initialized in the above to recieve credit.
+
+1 point all functions are virtual (constructors are not functions and cannot be virtual)
+
+Step 3:
+2 points Eliminate all new operations and all uses of pointers. Only the args declaration in the main function header needs to be a pointer.
+2 points make all parameters const that you can
+2 points make all parameters references that you can

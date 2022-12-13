@@ -1,0 +1,15 @@
+Compiles 2 points
+
+Implements egg laying behavior (4 points total)
+	1 point for LaysEggsBroody with mallard and redhead
+	1 point for LaysEggsNotBroody with pekin
+	1 point for DoesNotLayEggs with decoy
+	1 point for LaysToyEggs with toy duck
+
+Implements Pekin duck 2 points
+
+Implements ToyDuck 2 points
+
+By "implement" it means that the program runs and exhibits the behaviors as specified by the assignment.
+
+

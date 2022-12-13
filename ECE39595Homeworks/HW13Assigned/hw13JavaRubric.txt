@@ -1,0 +1,5 @@
+10 points total
+
+Compiles: 2 points
+Calls getModel( ) in the derived class: 4 points
+Correct output: 4 points

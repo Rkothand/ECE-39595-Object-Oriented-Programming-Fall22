@@ -1,0 +1,11 @@
+total of 10 points
+
+Part A: Screenshot of IDE: 2 points
+Part B: 
+   i. Program compiles and runs: 2 points
+      Program stores maintenance date as a String in the constructor, and return sthe string: 2 points
+
+   ii. Program compiles and runs: 2 points
+       Program stores maintenance date month, day and year as ints in the constructor and forms a string in maintenance date 
+       getter that is returned. 2 points
+

@@ -1,0 +1,5 @@
+2 points running without segmentation faulting
+1 point for each correct lookup result
+2 points for free.
+
+Not using std::map will cause you to recieve no credit.

@@ -1,0 +1,14 @@
+op== ok (1 pt)
+op== ok (1 pt)
+op= ok (1 pt)
+op( ) const ok (1 pt)
+op( ) ok (1 pt)
+op= ok (1 pt)
+op* ok (1 pt)
+res: (1 pt, array values are ok)
+3 3 
+3 3 
+
+op* with mismatched arrays ok (1 pt)
+Array2D(Array2D&) ok (1 pt)
+

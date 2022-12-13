@@ -1,0 +1,40 @@
+0: XYZ
+1: Ok
+2: Err
+3: Err
+4: Base::f3
+5: Base::f4
+6: Base::f5
+7: Err
+8: Base::foo0
+Base::f0
+9: Base::foo1
+Base::f1
+10: Base::foo2
+Base::f2
+11: Ok
+12: Err
+13: Err
+14: Derived::f3
+15: Base::f4
+16: Derived::f5
+17: Err
+18: Base::foo0
+Base::f0
+19: Base::foo1
+Derived::f1
+20: Base::foo2
+Derived::f2
+21: Ok
+22: Err
+23: Derived::f2
+24: Derived::f3
+25: Base::f4
+26: Err
+27: Derived::f6
+28: Base::foo0
+Base::f0
+29: Base::foo1
+Derived::f1
+30: Base::foo2
+Derived::f2

@@ -1,0 +1,10 @@
+#/usr/bin/bash
+# this will run the vm on all of the .out files produced by the parser and 
+# produce a .vout file as the output from the execution.
+for f in 10Swap 11Label 12Jump 13SimpleGoSub_GoSubLabel_Return 14ScalarEasy 15ScalarHard 16ScalarEasy 17ScalarHard 18ScalarHardest 19ArrayEasy 1PushI 20ArrayHard 21ArrayEasy 22ArrayHard 23ArrayHardest 24JumpZero 25JumpNZero 26Recurse 27DotProd 2PrintTOS 3Add 4Prints 5Div 6Dup 7Mul 8Negate 99Sample 9Pop
+do
+   touch $f.vout
+   rm $f.vout
+   echo $f 
+   ./a.out ./step1Outputs/$f.pout >> $f.vout
+done

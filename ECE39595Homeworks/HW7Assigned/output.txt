@@ -1,0 +1,13 @@
+op== ok
+op== ok
+op= ok
+op( ) const ok
+op( ) ok
+op= ok
+op* ok
+res:
+3 3 
+3 3 
+
+op* with mismatched arrays ok
+Array2D(Array2D&) ok

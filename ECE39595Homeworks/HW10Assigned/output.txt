@@ -1,0 +1,97 @@
+inner product on arrays of length 64000, result is 6.13952e+22
+
+inner product on arrays of length 64000, result is 9.05772e+22
+
+inner product on arrays of length 64000, result is 9.37943e+22
+
+inner product on arrays of length 64000, result is 1.16027e+23
+
+num elements sorted: 64000
+0 3 6 9 12 15 18 21 24 28 31 34 37 40 43 46 49 53 56 59 62 65 68 71 74 77 81 84 87 90 93 96 
+
+
+inner product on arrays of length 32000, result is 3.67874e+22
+
+num elements sorted: 32000
+0 3 6 9 12 15 18 21 24 27 31 34 37 40 43 46 50 53 56 59 62 65 69 72 75 78 81 84 87 90 93 96 
+
+
+inner product on arrays of length 16000, result is 1.83321e+22
+
+num elements sorted: 16000
+0 3 6 8 12 15 18 21 24 27 31 34 37 40 44 47 50 53 56 59 62 65 68 71 75 78 81 84 87 90 93 96 
+
+
+inner product on arrays of length 8000, result is 9.13443e+21
+
+num elements sorted: 8000
+0 3 6 9 12 16 19 22 25 28 31 34 38 40 44 47 50 53 56 59 62 65 69 72 75 78 81 84 87 90 93 96 
+
+
+num elements sorted: 64000
+0 3 6 9 12 15 18 21 24 28 31 34 37 40 43 46 49 53 56 59 62 65 68 71 74 77 81 84 87 90 93 96 
+
+
+inner product on arrays of length 32000, result is 7.35748e+22
+
+num elements sorted: 32000
+0 3 6 9 12 15 18 21 24 27 31 34 37 40 43 46 50 53 56 59 62 65 69 72 75 78 81 84 87 90 93 96 
+
+
+inner product on arrays of length 16000, result is 3.66642e+22
+
+num elements sorted: 16000
+0 3 6 8 12 15 18 21 24 27 31 34 37 40 44 47 50 53 56 59 62 65 68 71 75 78 81 84 87 90 93 96 
+
+
+inner product on arrays of length 8000, result is 1.82689e+22
+
+num elements sorted: 8000
+0 3 6 9 12 16 19 22 25 28 31 34 38 40 44 47 50 53 56 59 62 65 69 72 75 78 81 84 87 90 93 96 
+
+
+num elements sorted: 64000
+0 3 6 9 12 15 18 21 24 28 31 34 37 40 43 46 49 53 56 59 62 65 68 71 74 77 81 84 87 90 93 96 
+
+
+inner product on arrays of length 32000, result is 1.10362e+23
+
+num elements sorted: 64000
+0 3 6 9 12 15 18 21 24 28 31 34 37 40 43 46 49 53 56 59 62 65 68 71 74 77 81 84 87 90 93 96 
+
+
+inner product on arrays of length 32000, result is 1.4715e+23
+
+num elements sorted: 32000
+0 3 6 9 12 15 18 21 24 27 31 34 37 40 43 46 50 53 56 59 62 65 69 72 75 78 81 84 87 90 93 96 
+
+
+inner product on arrays of length 16000, result is 5.49963e+22
+
+num elements sorted: 32000
+0 3 6 9 12 15 18 21 24 27 31 34 37 40 43 46 50 53 56 59 62 65 69 72 75 78 81 84 87 90 93 96 
+
+
+inner product on arrays of length 16000, result is 7.33284e+22
+
+num elements sorted: 16000
+0 3 6 8 12 15 18 21 24 27 31 34 37 40 44 47 50 53 56 59 62 65 68 71 75 78 81 84 87 90 93 96 
+
+
+inner product on arrays of length 8000, result is 2.74033e+22
+
+num elements sorted: 8000
+0 3 6 9 12 16 19 22 25 28 31 34 38 40 44 47 50 53 56 59 62 65 69 72 75 78 81 84 87 90 93 96 
+
+
+num elements sorted: 16000
+0 3 6 8 12 15 18 21 24 27 31 34 37 40 44 47 50 53 56 59 62 65 68 71 75 78 81 84 87 90 93 96 
+
+
+inner product on arrays of length 8000, result is 3.65377e+22
+
+num elements sorted: 8000
+0 3 6 9 12 16 19 22 25 28 31 34 38 40 44 47 50 53 56 59 62 65 69 72 75 78 81 84 87 90 93 96 
+
+
+execution time with 4 threads is 10421560 microseconds

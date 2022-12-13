@@ -1,0 +1,40 @@
+s0: XYZ
+s1: Runs
+s2: Error
+s3: Error
+s4: Base::f3
+s5: Base::f4
+s6: Base::f5
+s7: Error
+s8: Base::foo0
+Base::foo0
+s9: Base::foo1
+Base::foo1
+s10: Base::foo2
+Base::foo2
+s11: Runs
+s12: Error
+s13: Error
+s14: Derived::f3
+s15: Base::f4
+s16: Derived::f5
+s17: Error
+s18: Base::foo0
+Base::foo0
+s19: Base::foo1
+Base::foo1
+s20: Base::foo2
+Base::foo2
+s21: Runs
+s22: Error
+s23: Derived::f2
+s24: Derived::f3
+s25: Base::f4
+s26: Err
+s27: Derived::f6
+s28: Base::foo0
+Base::foo0
+s29: Base::foo1
+Base::foo1
+s30: Base::foo2
+Base::foo2

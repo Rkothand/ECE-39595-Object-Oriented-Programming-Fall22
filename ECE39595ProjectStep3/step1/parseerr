@@ -1,0 +1,11 @@
+#/usr/bin/bash
+# this will run the parser on the teset files that produce errors and produce 
+# a .pout file as the output of the parser.  Your parser should produce a .out 
+# file to be read by the VM.
+for f in Err1StmtAfterEnd Err2NoEnd Err3DoubleDefScalar Err4DoubleDefArr Err5DoubleDefLabel 
+do
+   touch $f.pout
+   rm $f.pout
+   echo $f 
+   ./parser $f >> $f.pout
+done

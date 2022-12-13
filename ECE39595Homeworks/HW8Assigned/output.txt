@@ -1,0 +1,23 @@
+inserting: 5
+inserting: 1
+inserting: 1
+inserting: 7
+inserting: 7
+inserting: 15
+1 5 7 10 15 
+
+inserting: 5.1
+inserting: 1.1
+inserting: 1.1
+inserting: 7.1
+inserting: 7.1
+inserting: 15.1
+1.1 5.1 7.1 10 15.1 
+
+inserting: 5.1
+inserting: 1.1
+inserting: 1.1
+inserting: 7.1
+inserting: 7.1
+inserting: 15.1
+1.1 5.1 7.1 10 15.1 

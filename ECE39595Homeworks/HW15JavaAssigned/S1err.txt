@@ -1,0 +1,16 @@
+HW12.java:26: error: type argument HW12 is not within bounds of type-variable E
+      Node<HW12> hw12Node = new Node<>(new HW12( ));  // S1
+           ^
+  where E is a type-variable:
+    E extends Comparable declared in class Node
+HW12.java:26: error: cannot infer type arguments for Node<>
+      Node<HW12> hw12Node = new Node<>(new HW12( ));  // S1
+                            ^
+  reason: inference variable E has incompatible bounds
+    lower bounds: Comparable
+    lower bounds: HW12
+  where E is a type-variable:
+    E extends Comparable declared in class Node
+Note: ./TwoTuple.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+2 errors

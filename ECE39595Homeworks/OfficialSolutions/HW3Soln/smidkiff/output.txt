@@ -1,0 +1,30 @@
+visiting node 9, 19
+visiting node 8, 18
+visiting node 7, 17
+visiting node 6, 16
+visiting node 5, 15
+visiting node 4, 14
+visiting node 3, 13
+visiting node 2, 12
+visiting node 1, 11
+visiting node 0, 10
+deleting node 9, 19
+deleting node 8, 18
+deleting node 7, 17
+deleting node 6, 16
+deleting node 5, 15
+deleting node 4, 14
+deleting node 3, 13
+deleting node 2, 12
+deleting node 1, 11
+deleting node 0, 10
+deleting DataBin 0
+deleting DataBin 1
+deleting DataBin 2
+deleting DataBin 3
+deleting DataBin 4
+deleting DataBin 5
+deleting DataBin 6
+deleting DataBin 7
+deleting DataBin 8
+deleting DataBin 9

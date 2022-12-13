@@ -1,0 +1,14 @@
+HW12.java:27: error: wrong number of type arguments; required 2
+      TwoTuple<HW12> hw12TwoTuple = new TwoTuple<>(new HW12( ), new HW12( )); // S2
+              ^
+HW12.java:27: error: cannot infer type arguments for TwoTuple<>
+      TwoTuple<HW12> hw12TwoTuple = new TwoTuple<>(new HW12( ), new HW12( )); // S2
+                                    ^
+  reason: inference variable E1 has incompatible bounds
+    lower bounds: Comparable
+    lower bounds: HW12
+  where E1 is a type-variable:
+    E1 extends Comparable declared in class TwoTuple
+Note: ./TwoTuple.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+2 errors

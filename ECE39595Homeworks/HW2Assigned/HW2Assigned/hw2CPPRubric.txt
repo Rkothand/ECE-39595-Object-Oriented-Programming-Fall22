@@ -1,0 +1,25 @@
+Part A, the VFT.
+
+All function for a class shown in the VFT for both classes, 2 point
+ALl functions present point to the correct code, 2 point
+
+Part B
+1 point credit for anything since the program can be run to get the answers.
+
+Part C
+
+S19 (1 point) prints out 
+Derived::foo1
+Derived::f1
+However, I don't care about newlines 1 points
+
+S29 (1 point) prints out 
+Derived::foo1
+Derived::f1
+However, I don't care about newlines 1 points
+
+Part D
+
+1 point -- the Staticy constructor is private
+1 point -- makeStaticy(int) is static.
+1 point -- the variable holding the count of even arguments to the constructor is static.
